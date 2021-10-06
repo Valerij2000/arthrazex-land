@@ -1,0 +1,16 @@
+#state {}
+#state img {
+    width: 100%;
+}
+#state p {
+    color: #90949c;
+}
+
+.myImages img {
+    width: 112px !important;
+    height: 119px;
+}
+
+hr {
+    display: none !important;
+}
